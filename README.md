@@ -1,2 +1,2 @@
 # MachineLearning
-Basic Knowledge of Machine Learning 
+Basic Knowledge of Machine Learning & Deep Learning
